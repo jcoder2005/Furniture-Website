@@ -1,0 +1,28 @@
+@media screen and (max-width:400px){
+    .social-link i img{
+        width: 20px;
+    }
+
+    .logo h3{
+        font-size: 20px;
+    }
+
+    .icons i img{
+        width: 20px;
+    }
+}
+
+@media screen and (max-width:420px){
+
+    /* Content  */
+
+    .content h1{
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:895px) {
+    #btn3 button{
+        width: 100px;
+    }
+}
